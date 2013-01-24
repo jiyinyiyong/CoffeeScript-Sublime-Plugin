@@ -42,6 +42,7 @@
 	*/
 ,	"watchOutputOnSuccess": true
 ,	"watchOutputOnFailure": true
+, "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 
 	/*
 		Watched files containing errors will have their view focused
